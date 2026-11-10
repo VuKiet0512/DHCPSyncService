@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Downloads\\DHCPSyncService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6FBCB0-8510-46CC-83D8-DE930012F91F}|DHCPSyncService\\DHCPSyncService.csproj|c:\\users\\administrator\\downloads\\dhcpsyncservice\\dhcpsyncservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF6FBCB0-8510-46CC-83D8-DE930012F91F}|DHCPSyncService\\DHCPSyncService.csproj|solutionrelative:dhcpsyncservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6FBCB0-8510-46CC-83D8-DE930012F91F}|DHCPSyncService\\DHCPSyncService.csproj|C:\\Users\\Administrator\\Downloads\\DHCPSyncService\\dhcpsyncservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF6FBCB0-8510-46CC-83D8-DE930012F91F}|DHCPSyncService\\DHCPSyncService.csproj|solutionrelative:dhcpsyncservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6FBCB0-8510-46CC-83D8-DE930012F91F}|DHCPSyncService\\DHCPSyncService.csproj|C:\\Users\\Administrator\\Downloads\\DHCPSyncService\\dhcpsyncservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DF6FBCB0-8510-46CC-83D8-DE930012F91F}|DHCPSyncService\\DHCPSyncService.csproj|solutionrelative:dhcpsyncservice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF6FBCB0-8510-46CC-83D8-DE930012F91F}|DHCPSyncService\\DHCPSyncService.csproj|C:\\Users\\Administrator\\Downloads\\DHCPSyncService\\dhcpsyncservice\\dhcpdb.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{DF6FBCB0-8510-46CC-83D8-DE930012F91F}|DHCPSyncService\\DHCPSyncService.csproj|solutionrelative:dhcpsyncservice\\dhcpdb.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DHCPSyncService\\DHCPSyncService\\App.config",
+              "RelativeDocumentMoniker": "DHCPSyncService\\App.config",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DHCPSyncService\\DHCPSyncService\\App.config",
+              "RelativeToolTip": "DHCPSyncService\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-07-15T07:58:14.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DHCPdb.dbml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DHCPSyncService\\DHCPSyncService\\DHCPdb.dbml",
+              "RelativeDocumentMoniker": "DHCPSyncService\\DHCPdb.dbml",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DHCPSyncService\\DHCPSyncService\\DHCPdb.dbml",
+              "RelativeToolTip": "DHCPSyncService\\DHCPdb.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2026-07-15T06:00:36.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DHCPSyncService\\DHCPSyncService\\Service1.cs",
+              "RelativeDocumentMoniker": "DHCPSyncService\\Service1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\DHCPSyncService\\DHCPSyncService\\Service1.cs",
+              "RelativeToolTip": "DHCPSyncService\\Service1.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAUwJAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T05:58:28.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\DHCPSyncService\\DHCPSyncService\\Service1.cs",
+              "RelativeDocumentMoniker": "DHCPSyncService\\Service1.cs",
+              "ToolTip": "G:\\My Drive\\Project\\DHCPSyncService\\DHCPSyncService\\Service1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T05:55:50.664Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

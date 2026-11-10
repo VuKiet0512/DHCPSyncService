@@ -1,0 +1,10 @@
+D:\Project\DHCPSyncService\DHCPSyncService\bin\Debug\DHCPSyncService.exe.config
+D:\Project\DHCPSyncService\DHCPSyncService\bin\Debug\DHCPSyncService.exe
+D:\Project\DHCPSyncService\DHCPSyncService\bin\Debug\DHCPSyncService.pdb
+D:\Project\DHCPSyncService\DHCPSyncService\bin\Debug\Newtonsoft.Json.dll
+D:\Project\DHCPSyncService\DHCPSyncService\bin\Debug\Newtonsoft.Json.xml
+D:\Project\DHCPSyncService\DHCPSyncService\obj\Debug\DHCPSyncService.csproj.AssemblyReference.cache
+D:\Project\DHCPSyncService\DHCPSyncService\obj\Debug\DHCPSyncService.csproj.CoreCompileInputs.cache
+D:\Project\DHCPSyncService\DHCPSyncService\obj\Debug\DHCPSync.84AB422F.Up2Date
+D:\Project\DHCPSyncService\DHCPSyncService\obj\Debug\DHCPSyncService.exe
+D:\Project\DHCPSyncService\DHCPSyncService\obj\Debug\DHCPSyncService.pdb

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DHCPdb">
+  <DataContextMoniker Name="/DHCPdbDataContext" />
+  <nestedChildShapes>
+    <classShape Id="fca81cc5-1148-4c22-9fb6-f15be33e8f41" absoluteBounds="2.75, 1.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/DHCPdbDataContext/tblDHCPClient" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f6d51cb3-e11d-42aa-be6d-fdfe0be6a8ff" absoluteBounds="2.765, 2.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DHCPServices" Class="DHCPdbDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=10.10.71.20;Initial Catalog=DHCPServices;Persist Security Info=True;User ID=sa;Trust Server Certificate=True" SettingsObjectName="DHCPSyncService.Properties.Settings" SettingsPropertyName="DHCPServicesConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tblDHCPClients" Member="tblDHCPClients">
+    <Type Name="tblDHCPClient">
+      <Column Name="MACAddress" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="IPAddress" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="HostName" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(500)" CanBeNull="true" />
+      <Column Name="LeaseExpiryTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="LastUpdate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
